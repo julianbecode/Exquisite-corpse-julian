@@ -6,3 +6,12 @@
 it's me, jack
 it is ok
 let's go
+
+# This is Exquisite-corpse-T README
+
+> So now that I realize the purpose of this exercise, I will write some text that makes sense.
+> I complained *a lot* about the sun and very hot weather during the summer.
+> **I regret it! Please, sun, do come back!!!**
+
+
+
